@@ -1,0 +1,14 @@
+numpy
+pandas
+plotly
+sklearn
+Pillow
+scipy
+streamlit
+lightgbm
+catboost
+keras
+tensorflow-cpu
+pandas-profiling
+streamlit-pandas-profiling
+prince
